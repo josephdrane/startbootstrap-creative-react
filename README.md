@@ -1,3 +1,7 @@
+# Converted Theme : Creative from StartBootstrap.com 
+
+**Some animation is missing that was from JS, so that's next on the list**
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
